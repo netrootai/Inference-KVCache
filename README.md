@@ -1,4 +1,4 @@
-# Inference-KVCach
+# Inference-KVCache
 
 Netroot AI --- Telemetry & Analysis Dashboard
 
