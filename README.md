@@ -44,7 +44,7 @@ Netrootai supports simultaneous connections to heterogeneous backend data stores
 ![Data Sources Connection](Sample_Images/data_sources_connection.png)[cite: 25]
 ![Data Source Details](Sample_Images/Data%20Source%202.png)[cite: 25]
 
----
+
 
 ## 4. Creating Custom KPIs in Netrootai Analytics
 To support specialized operational needs, authorized users can author custom KPIs using native database queries directly within the panel query editor[cite: 25].
@@ -59,7 +59,7 @@ SELECT
 FROM cluster_cpu_util
 WHERE machine_id = 'm0'
 GROUP BY machine_id;
-```[cite: 26]
+```
 
 ### 4.2 Custom KPI Application Matrix
 * **Average CPU Utilization:** Measures baseline processor compute loading across defined cluster groups[cite: 26].
