@@ -5,7 +5,7 @@
 ## Overview
 The Netrootai Telemetry & Analysis Dashboard provides a consolidated view of model performance, GPU-related telemetry, KV-cache behavior, throughput, latency, and estimated infrastructure cost. It brings key indicators and time-series views into one workspace so users can review performance patterns and compare selected model and GPU configurations.
 
-![Dashboard Overview](assets/dashboard_overview.png)
+![Dashboard Overview](Sample_Images/dashboard_overview.png)
 
 ---
 
@@ -20,22 +20,22 @@ The Netrootai Telemetry & Analysis Dashboard provides a consolidated view of mod
 ## 2. Time-Series Visualizations & Multi-Machine Monitoring
 Time-series panels render telemetry readings against unified UTC timestamps to reveal utilization spikes and cyclical profiles. Monitored nodes represent individual servers for side-by-side performance benchmarking.
 
-![KV-Cache Utilization](assets/kv_cache_utilization.png)
+![KV-Cache Utilization](Sample_Images/kv_cache_utilization.png)
 
 ---
 
 ## 3. Multiple Data-Source Integration
 Netrootai supports simultaneous connections to heterogeneous backend data stores (PostgreSQL, MySQL, Prometheus, time-series engines) within a unified workspace.
 
-![Data Sources Connection](assets/data_sources_connection.png)
-![Data Source 2](assets/Data%20Source%202.png)
+![Data Sources Connection](Sample_Images/data_sources_connection.png)
+![Data Source 2](Sample_Images/Data%20Source%202.png)
 
 ---
 
 ## 4. Creating Custom KPIs in Netrootai Analytics
 Authorized users can author custom KPIs using native database queries directly within the panel query editor to support specialized operational needs.
 
-![New Dashboard Editor](assets/new_dashboard_editor..png)
+![New Dashboard Editor](Sample_Images/new_dashboard_editor..png)
 
 ---
 
@@ -51,26 +51,26 @@ Pre-built statistical indicators calculated over a calibrated rolling window:
 
 ### KPI Cards
 KPI cards provide a quick summary of individual metrics. Check the displayed unit before comparing values.
-![KPI Card](assets/KPI_CARD.png)
+![KPI Card](Sample_Images/KPI_CARD.png)
 
 ### Time-Series Panels
 Time-series panels show how a metric changes across the selected time range.
-![Time-Series Panels](assets/ime-series%20panels.png)
+![Time-Series Panels](Sample_Images/ime-series%20panels.png)
 
 ### Comparison Charts
 Comparison charts help identify differences between models, GPU configurations, batch sizes, or other dimensions.
-![Comparison Charts](assets/Comparison%20charts%20.png)
+![Comparison Charts](Sample_Images/Comparison%20charts%20.png)
 
 ### Model and GPU Comparison Table
 The comparison table presents available metrics by model and GPU configuration.
-![Model and GPU Comparison Table](assets/Model%20and%20GPU%20comparison%20table%20.png)
+![Model and GPU Comparison Table](Sample_Images/Model%20and%20GPU%20comparison%20table%20.png)
 
 ---
 
 ## 7. Netrootai Intelligent LLM Assistant
 The Netrootai LLM Assistant transforms complex telemetry dashboards into understandable, actionable insights, providing root-cause analysis and operational recommendations.
 
-![Business Values](assets/Buisness%20Values.png)
+![Business Values](Sample_Images/Buisness%20Values.png)
 
 ---
 
