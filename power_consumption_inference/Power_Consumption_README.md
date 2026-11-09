@@ -330,11 +330,6 @@ The dashboard provides analytical visibility across both GPU infrastructure and 
 *GPU-by-model power consumption*
 
 
-<p align="center"><img src="Sample_Imaged/Model%20and%20GPU%20comparison%20table.png" alt="Model and GPU comparison table" width="900"></p>
-
-*Model and GPU comparison table*
-
-
 <p align="center"><img src="Sample_Imaged/gpu_power_consumption_trend.png" alt="GPU power consumption trend" width="900"></p>
 
 *GPU power consumption trend*
