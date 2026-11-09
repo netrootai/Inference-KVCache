@@ -327,7 +327,7 @@ The dashboard provides analytical visibility across both GPU infrastructure and 
 
 ## **12. What the Dashboard Helps Organisations Understand Across GPUs and Models**
 
-![Energy consumption across models](<Sample_Imaged/energy consumption across models.png>)
+![Energy consumption across models](<Sample_Imaged/eenergy consumption acrosss models.png>)
 
 *Energy consumption across models*
 
