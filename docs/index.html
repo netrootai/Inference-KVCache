@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netrootai | Documentation</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #0d1117;
+            color: #e6edf3;
+        }
+        header {
+            background: #161b22;
+            padding: 22px 8%;
+            border-bottom: 1px solid #30363d;
+        }
+        nav {
+            display: flex;
+            gap: 28px;
+            flex-wrap: wrap;
+        }
+        nav a {
+            color: #c9d1d9;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover, nav a.active {
+            color: #58a6ff;
+        }
+        main {
+            max-width: 950px;
+            margin: 65px auto;
+            padding: 0 25px;
+        }
+        h1 { font-size: 36px; }
+        p { color: #aab4bf; line-height: 1.7; }
+        .card {
+            background: #161b22;
+            border: 1px solid #30363d;
+            padding: 25px;
+            border-radius: 10px;
+            margin-top: 25px;
+        }
+        .card a {
+            color: #58a6ff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <nav>
+        <a class="active" href="index.html">Home</a>
+        <a href="kv-cache.html">KV Cache Analytics</a>
+        <a href="power-consumption.html">Power Consumption Inference</a>
+    </nav>
+</header>
+
+<main>
+    <h1>Netrootai Documentation</h1>
+    <p>
+        Explore Netrootai's telemetry, infrastructure monitoring,
+        inference analytics and power consumption documentation.
+    </p>
+
+```
+<div class="card">
+    <h2>Telemetry & KV Cache Analytics</h2>
+    <p>Documentation covering GPU telemetry, KV-cache behaviour,
+    model performance and inference analytics.</p>
+    <a href="kv-cache.html">Explore Documentation →</a>
+</div>
+
+<div class="card">
+    <h2>Power Consumption & Inference Analytics</h2>
+    <p>Documentation covering GPU power consumption, energy
+    analytics, inference workloads and efficiency.</p>
+    <a href="power-consumption.html">Explore Documentation →</a>
+</div>
+```
+
+</main>
+</body>
+</html>
