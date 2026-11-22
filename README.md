@@ -69,7 +69,8 @@ GROUP BY machine_id;
 * **Node Benchmark Comparison:** Highlights load imbalance and non-uniform work distribution across nodes.
 * **Threshold Alerts:** Triggers visual state changes when metrics breach critical capacity bounds.
 
----
+<img width="926" height="314" alt="image" src="https://github.com/user-attachments/assets/c6e6453d-a8fe-4632-8276-6f153a4ffd46" />
+
 
 ## 5. Statistical Performance Indicators
 Pre-built statistical indicators calculated over a calibrated 15-reading rolling window smooth noise and highlight genuine performance trends:
@@ -245,6 +246,9 @@ Understand how different AI models behave during inference by examining:
 * Token throughput under different workload conditions.
 
 *This helps users investigate which models place greater demands on memory resources and how those demands relate to inference performance.*
+
+<img width="941" height="457" alt="image" src="https://github.com/user-attachments/assets/ed1dffbf-a7f8-45fd-8250-f99503afb1d2" />
+
 
 ### 2. GPU Hardware Comparison
 Compare supported GPU configurations using available telemetry to investigate:
